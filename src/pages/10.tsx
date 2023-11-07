@@ -9,7 +9,7 @@ import { scrollTo } from "../utils";
 import Head_bg from "../assets/hero5.png";
 import Headline from "../assets/headline_spandeb1.png";
 
-// google tag manager
+// google tag managers
 
 const tagManagerArgs = {
   gtmId: "GTM-KZJBC3B",
